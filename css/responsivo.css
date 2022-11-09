@@ -1,0 +1,40 @@
+@media  screen and (max-width: 375px) {
+.menu__list{
+        flex-direction: column;
+        display: flex;
+        background-color: rgb(243, 0, 0);
+        
+    
+}
+
+.app .conteudo .conteudo__primeiro  {
+    display: flex;
+    flex-direction: column;
+
+    width: 100vw;
+    height: 100vh;
+
+
+
+
+
+}
+
+
+
+.conteudo__imagem {
+    grid-row: 1 / 2;
+    grid-column: 1 / 2;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+
+
+
+
+
+
+}
+
